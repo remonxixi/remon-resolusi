@@ -3,3 +3,4 @@ REMON RESOLUSI
 -belajar web programming
 -belajar bahasa c
 -belajar python
+-belajar dari expert
